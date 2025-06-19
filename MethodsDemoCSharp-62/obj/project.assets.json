@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sethb\\.nuget\\packages\\": {}
+    "/Users/bryantwhitsett/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sethb\\OneDrive\\Desktop\\repos\\MethodsDemoCSharp-62\\MethodsDemoCSharp-62\\MethodsDemoCSharp-62.csproj",
+      "projectUniqueName": "/Users/bryantwhitsett/Desktop/repos/MethodsDemo/MethodsDemoCSharp-62/MethodsDemoCSharp-62.csproj",
       "projectName": "MethodsDemoCSharp-62",
-      "projectPath": "C:\\Users\\sethb\\OneDrive\\Desktop\\repos\\MethodsDemoCSharp-62\\MethodsDemoCSharp-62\\MethodsDemoCSharp-62.csproj",
-      "packagesPath": "C:\\Users\\sethb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sethb\\OneDrive\\Desktop\\repos\\MethodsDemoCSharp-62\\MethodsDemoCSharp-62\\obj\\",
+      "projectPath": "/Users/bryantwhitsett/Desktop/repos/MethodsDemo/MethodsDemoCSharp-62/MethodsDemoCSharp-62.csproj",
+      "packagesPath": "/Users/bryantwhitsett/.nuget/packages/",
+      "outputPath": "/Users/bryantwhitsett/Desktop/repos/MethodsDemo/MethodsDemoCSharp-62/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sethb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/bryantwhitsett/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -43,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -64,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/bryantwhitsett/.dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

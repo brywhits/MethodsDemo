@@ -6,11 +6,15 @@ class Program
     
     static void Main(string[] args)
     {
-        //Console.WriteLine("Hello, World!");
-        //string response = Console.ReadLine();
+        Helper.AskName();
         
-        //Calling the method (using a method)
-        //Console.ForegroundColor = ConsoleColor.Green;
+        Helper.AskColor();
+        
+        Helper.AskFavoriteAnimal();
+        
+        Helper.AskFavMusic();
+        
+        
         GreetUserByName("Seth");
         GreetUserByName("Cynthia");
 
